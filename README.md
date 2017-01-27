@@ -1,3 +1,9 @@
+This is an update of Blindpet's MediaServerInstaller for Ubuntu and Debian - Also RPi's.
+
+
+
+Original Readme:
+
 HTPC Guides Media Server Installer for Ubuntu and Debian
 ========================
 
